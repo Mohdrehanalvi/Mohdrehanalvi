@@ -13,6 +13,13 @@ I turn business questions into clear requirements, reliable analysis, and dashbo
 * Dashboards and reporting in Power BI and Tableau
 * Statistical modeling, variance analysis, and forecasting
 
+## Data Engineering
+
+* SQL and Python data pipelines that move and prepare data for analysis and reporting
+* Cloud data platforms: AWS S3, RDS, and EC2, plus Amazon Redshift
+* Processing at scale: Apache Spark
+* Dashboards and reporting: Power BI, Tableau, and AWS QuickSight
+
 ## Skills
 
 **Analysis and programming:** SQL, R, Python, Excel (PivotTables, VLOOKUP)
